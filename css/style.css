@@ -1,9 +1,24 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F3BD00;
+    --primary: #0C2B4B;
     --secondary: #757575;
     --light: #F3F6F8;
     --dark: #0C2B4B;
+}
+
+.footer-link{
+    color: #FFFFFF!important;
+}
+
+.footer-link:hover{
+    color: #FFFFFF!important;
+}
+
+.logo{
+    width: 120px;
+    height: 100px;
+    margin: 5px;
+
 }
 
 .py-6 {
@@ -49,6 +64,7 @@
 .btn.btn-primary,
 .btn.btn-outline-primary:hover {
     color: #FFFFFF;
+    background-color: #0C2B4B!important;
 }
 
 .btn-square {

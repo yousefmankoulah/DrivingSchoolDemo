@@ -6,6 +6,11 @@
     --dark: #0C2B4B;
 }
 
+.img_gallery {
+    height: 900px;
+    object-fit: cover;
+}
+
 .footer-link{
     color: #FFFFFF!important;
 }
